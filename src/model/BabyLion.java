@@ -31,4 +31,10 @@ public class BabyLion {
     public void setId(int id) {
         this.id = id;
     }
+
+    @Override
+    public String toString(){
+        return "이름 : " + name + " 자기소개 : " + selfIntro + " 학번 : " + id + " 성실도 : " + good;
+    }
+
 }
