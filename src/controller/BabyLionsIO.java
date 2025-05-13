@@ -20,8 +20,17 @@ public class BabyLionsIO {
 
             int menu = sc.nextInt();
 
-            if(menu == 1) manager.registerLion(); //아기사자 등록
+
+            if(menu == 1) {
+                System.out.println("아기사자를 등록하세요!");
+                manager.registerLion(); //아기사자 등록
+            }
             if(menu == 2) manager.viewAllLions(); //아기사자 전체조회
+            if(menu == 3) {
+                System.out.print("찾을 아기사자의 학번을 입력하시오: ");
+                int findLion = sc.nextInt();
+                manager.otherviewLions(findLion);
+            }
 
         }
     }
