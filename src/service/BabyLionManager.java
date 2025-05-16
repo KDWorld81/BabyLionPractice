@@ -47,17 +47,17 @@ public class BabyLionManager {
     public void otherviewLions(){
         System.out.print("찾을 아기사자의 학번을 입력하시오: ");
         int id = sc.nextInt();
+        sc.nextLine();
         for(BabyLion lion : lions){
-            if(lion.getId() == id){
-                System.out.println(lion);
-            }
-            else System.out.println("해당 "+id+" 라는 학번을 가진 아기사자가 없습니다.");
+            if(lion.getId() == id) System.out.println(lion);
+            return;
         }
+        System.out.println("해당 "+id+" 라는 학번을 가진 아기사자가 없습니다.");
     }
 
     //자기소개 수정
     public void selfIntroFix(){
-        System.out.println("수정할 아기사자의 학번은 ? :");
+        System.out.println("자기소개를 수정할 아기사자의 학번은 ? :");
         int id = sc.nextInt();
         sc.nextLine();
 
@@ -66,6 +66,22 @@ public class BabyLionManager {
                 System.out.println("바꿀 내용을 입력하시오 : ");
                 String selfIntrofix = sc.nextLine();
                 lion.setSelfIntro(selfIntrofix);
+            }
+        }
+    }
+
+    //아기사자 성실도 변경
+    public void goodFix(){
+        System.out.println("성실도(0~5)를 변경할 아기사자의 학번은 ? :");
+        int id = sc.nextInt();
+        sc.nextLine();
+
+        for(BabyLion lion : lions){
+            if(lion.getId() == id){
+                System.out.println("바꿀 성실도 수치를 입력하시오(0~5) : ");
+                int good = sc.nextInt();
+                sc.nextLine();
+                lion.setGood(good);
             }
         }
     }

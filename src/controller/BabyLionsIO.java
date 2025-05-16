@@ -24,6 +24,11 @@ public class BabyLionsIO {
             if(menu == 2) manager.viewAllLions(); //아기사자 전체조회
             if(menu == 3) manager.otherviewLions(); //아기사자 개별조회(id를통한)
             if(menu == 4) manager.selfIntroFix(); //아기사자 자기소개수정
+            if(menu == 5) manager.goodFix(); //아기사자 성실도수정
+            if(menu == 6) {
+                System.out.println("종료하겠습니다.");
+                break;
+            }
         }
     }
 }
