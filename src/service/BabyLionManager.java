@@ -12,6 +12,7 @@ public class BabyLionManager {
 
     //아기사자 등록
     public void registerLion(){
+        System.out.println("아기사자를 등록하세요!");
         System.out.print("이름 입력 :");
         String name = sc.nextLine();
 
@@ -43,12 +44,29 @@ public class BabyLionManager {
     }
 
     //개별 조회(학번을 통한)
-    public void otherviewLions(int id){
+    public void otherviewLions(){
+        System.out.print("찾을 아기사자의 학번을 입력하시오: ");
+        int id = sc.nextInt();
         for(BabyLion lion : lions){
             if(lion.getId() == id){
                 System.out.println(lion);
             }
             else System.out.println("해당 "+id+" 라는 학번을 가진 아기사자가 없습니다.");
+        }
+    }
+
+    //자기소개 수정
+    public void selfIntroFix(){
+        System.out.println("수정할 아기사자의 학번은 ? :");
+        int id = sc.nextInt();
+        sc.nextLine();
+
+        for(BabyLion lion : lions){
+            if(lion.getId() == id){
+                System.out.println("바꿀 내용을 입력하시오 : ");
+                String selfIntrofix = sc.nextLine();
+                lion.setSelfIntro(selfIntrofix);
+            }
         }
     }
 
