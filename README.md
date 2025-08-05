@@ -1,8 +1,7 @@
-# ILKAN-web  
+# ILKAN-was 
 > ILKAN 서비스의 Backend Repository입니다.
 
-
-
+<br>
 
 ## 👨‍💻 Backend Developers
 
@@ -23,7 +22,6 @@
   </tr>
 </table>
 
-
 <br>
 
 ## 👋 Commit Message 규칙
@@ -40,8 +38,7 @@
 | **merge** | 🔀 브랜치 병합 |
 
 💡 **사용 예시:**  
-feat: 로그인 폼 생성 완료
-<br>
+feat: 로그인 폼 생성 완료  
 fix: 회원가입 에러 수정
 
 <br>
