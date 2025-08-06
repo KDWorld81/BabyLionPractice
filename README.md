@@ -7,6 +7,7 @@
 <h3>🐣 KDWorld 🐣</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-46%20%2F%202536-black?logo=github)](https://github.com/KDWorld81)
+[![solved.ac](https://img.shields.io/badge/Solved.ac-Silver-blue?logo=solved.ac)](https://solved.ac/profile/KDWorld81)
 
 🍏 [KDWorld.log](https://velog.io/@kdworld-_-/posts)
 
