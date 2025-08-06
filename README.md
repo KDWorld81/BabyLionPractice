@@ -5,22 +5,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-46%20%2F%202536-black?logo=github)](https://github.com/KDWorld81)
 [![solved.ac](https://img.shields.io/badge/Solved.ac-silver.svg?logo=solved.ac)](https://solved.ac/KDWorld81)
 
-🍏 [KDWorld.log](https://velog.io/@seondal)  
-🍊 [KDWorldgorithm](https://whkakrkrr.tistory.com)
+🍏 [KDWorld.log](https://velog.io/@https://velog.io/@kdworld-_-/posts)  
 
----
 
-### 📊 KDWorld’s GitHub Stats
-
-![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDWorld81&show_icons=true&theme=radical&hide_title=true)
-
----
-
-### 📌 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDWorld81&layout=compact&theme=radical)](https://github.com/KDWorld81)
-
----
 
 ### 💻 Currently in Use
 
