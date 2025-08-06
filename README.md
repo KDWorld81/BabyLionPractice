@@ -1,52 +1,36 @@
-# ILKAN-was 
-> ILKAN 서비스의 Backend Repository입니다.
+<div align="center">
+  
+## 🐣 KDWorld 🐣
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-46%20%2F%202536-black?logo=github)](https://github.com/KDWorld81)
+[![solved.ac](https://img.shields.io/badge/Solved.ac-silver.svg?logo=solved.ac)](https://solved.ac/KDWorld81)
 
-## 👨‍💻 Backend Developers
+🍏 [KDWorld.log](https://velog.io/@seondal)  
+🍊 [KDWorldgorithm](https://whkakrkrr.tistory.com)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KDWorld81">
-        <img src="https://github.com/KDWorld81.png" width="120px;" alt="곽동욱 GitHub Profile"/><br />
-        <span style="font-size: 16px; font-weight: bold;">곽동욱 (KDWorld81)</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lnahyun">
-        <img src="https://github.com/lnahyun.png" width="120px;" alt="이나현 GitHub Profile"/><br />
-        <span style="font-size: 16px; font-weight: bold;">이나현 (lnahyun)</span>
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+### 📊 KDWorld’s GitHub Stats
 
-## 👋 Commit Message 규칙
+![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDWorld81&show_icons=true&theme=radical&hide_title=true)
 
-| **메시지 타입** | **설명** |
-| --- | --- |
-| **feat** | ✨ 새로운 기능 추가 및 기존 기능 수정 |
-| **fix** | 🐛 버그 수정 |
-| **docs** | 📚 문서 및 주석 수정 |
-| **style** | 🎨 코드 스타일 및 포맷팅 수정 |
-| **refact** | ♻️ 기능 변화 없는 코드 리팩터링 |
-| **test** | ✅ 테스트 코드 추가/수정 |
-| **chore** | 🔧 패키지 매니저 수정 및 기타 잡다한 변경(ex: `.gitignore`) |
-| **merge** | 🔀 브랜치 병합 |
+---
 
-💡 **사용 예시:**  
-feat: 로그인 폼 생성 완료  
-fix: 회원가입 에러 수정
+### 📌 Most Used Languages
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDWorld81&layout=compact&theme=radical)](https://github.com/KDWorld81)
 
-## 🌿 Branch Naming 규칙
+---
 
-- 이슈 생성 시 부여된 **Jira Key**를 **앞에 붙여서 작성**합니다.  
-- 띄어쓰기 대신 대괄호로 감싸 가독성을 높입니다.
+### 💻 Currently in Use
 
-💡 **사용 예시:**  
-[ILKAN-1] loginPage
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
