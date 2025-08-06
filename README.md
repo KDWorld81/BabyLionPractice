@@ -1,13 +1,11 @@
-<!-- 전체 화면 구성 -->
+
 <table>
   <tr>
-    <!-- 왼쪽: 프로필 / 블로그 -->
+    
     <td width="50%" valign="top">
 
 <h3>🐣 KDWorld 🐣</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-46%20%2F%202536-black?logo=github)](https://github.com/KDWorld81)
-[![solved.ac](https://img.shields.io/badge/Solved.ac-Silver-blue?logo=solved.ac)](https://solved.ac/profile/KDWorld81)
 
 🍏 [KDWorld.log](https://velog.io/@kdworld-_-/posts)
 
@@ -15,7 +13,7 @@
 
 </td>
 
-<!-- 오른쪽: GitHub Stats -->
+
 <td width="50%" valign="top">
 
 <h4>📈 KDWorld’s GitHub Stats</h4>
@@ -30,7 +28,7 @@
 
 <table>
   <tr>
-    <!-- 왼쪽: Most Used Languages -->
+    
     <td width="50%" valign="top">
 
 <h4>🎯 Most Used Languages</h4>
@@ -39,7 +37,7 @@
 
 </td>
 
-<!-- 오른쪽: Currently in Use -->
+
 <td width="50%" valign="top">
 
 <h4>💻 Currently in Use</h4>
